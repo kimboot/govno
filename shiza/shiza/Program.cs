@@ -21,14 +21,14 @@ namespace project_shiza
                     Console.WriteLine("Формула расчета напряженности эл.поля = 2");
 
                     electrostatika kulon = new electrostatika();
-
+                    Console.ReadLine();
                 }
 
 
 
 
 
-
+                
             }
             _ = Convert.ToChar(Console.ReadLine());
 
