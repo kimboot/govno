@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kimbo\\Desktop\\shizaprod\\shiza\\shiza\\shiza.csproj": {}
+    "C:\\Users\\kimbo\\Desktop\\shizaprod\\govno\\shiza\\shiza\\shiza.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kimbo\\Desktop\\shizaprod\\shiza\\shiza\\shiza.csproj": {
+    "C:\\Users\\kimbo\\Desktop\\shizaprod\\govno\\shiza\\shiza\\shiza.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kimbo\\Desktop\\shizaprod\\shiza\\shiza\\shiza.csproj",
+        "projectUniqueName": "C:\\Users\\kimbo\\Desktop\\shizaprod\\govno\\shiza\\shiza\\shiza.csproj",
         "projectName": "shiza",
-        "projectPath": "C:\\Users\\kimbo\\Desktop\\shizaprod\\shiza\\shiza\\shiza.csproj",
+        "projectPath": "C:\\Users\\kimbo\\Desktop\\shizaprod\\govno\\shiza\\shiza\\shiza.csproj",
         "packagesPath": "C:\\Users\\kimbo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kimbo\\Desktop\\shizaprod\\shiza\\shiza\\obj\\",
+        "outputPath": "C:\\Users\\kimbo\\Desktop\\shizaprod\\govno\\shiza\\shiza\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kimbo\\AppData\\Roaming\\NuGet\\NuGet.Config",
