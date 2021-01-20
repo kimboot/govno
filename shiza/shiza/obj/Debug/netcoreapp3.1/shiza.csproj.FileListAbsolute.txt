@@ -1,0 +1,13 @@
+C:\Users\kimbo\Desktop\shizaprod\shiza\shiza\bin\Debug\netcoreapp3.1\shiza.exe
+C:\Users\kimbo\Desktop\shizaprod\shiza\shiza\bin\Debug\netcoreapp3.1\shiza.deps.json
+C:\Users\kimbo\Desktop\shizaprod\shiza\shiza\bin\Debug\netcoreapp3.1\shiza.runtimeconfig.json
+C:\Users\kimbo\Desktop\shizaprod\shiza\shiza\bin\Debug\netcoreapp3.1\shiza.runtimeconfig.dev.json
+C:\Users\kimbo\Desktop\shizaprod\shiza\shiza\bin\Debug\netcoreapp3.1\shiza.dll
+C:\Users\kimbo\Desktop\shizaprod\shiza\shiza\bin\Debug\netcoreapp3.1\shiza.pdb
+C:\Users\kimbo\Desktop\shizaprod\shiza\shiza\obj\Debug\netcoreapp3.1\shiza.csprojAssemblyReference.cache
+C:\Users\kimbo\Desktop\shizaprod\shiza\shiza\obj\Debug\netcoreapp3.1\shiza.AssemblyInfoInputs.cache
+C:\Users\kimbo\Desktop\shizaprod\shiza\shiza\obj\Debug\netcoreapp3.1\shiza.AssemblyInfo.cs
+C:\Users\kimbo\Desktop\shizaprod\shiza\shiza\obj\Debug\netcoreapp3.1\shiza.csproj.CoreCompileInputs.cache
+C:\Users\kimbo\Desktop\shizaprod\shiza\shiza\obj\Debug\netcoreapp3.1\shiza.dll
+C:\Users\kimbo\Desktop\shizaprod\shiza\shiza\obj\Debug\netcoreapp3.1\shiza.pdb
+C:\Users\kimbo\Desktop\shizaprod\shiza\shiza\obj\Debug\netcoreapp3.1\shiza.genruntimeconfig.cache
