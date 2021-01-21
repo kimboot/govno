@@ -8,19 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\kimbo\\.nuget\\packages\\": {}
+    "C:\\Users\\Александр\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kimbo\\Desktop\\shizaprod\\shiza\\shiza\\shiza.csproj",
+      "projectUniqueName": "D:\\Projects\\govno\\shiza\\shiza\\shiza.csproj",
       "projectName": "shiza",
-      "projectPath": "C:\\Users\\kimbo\\Desktop\\shizaprod\\shiza\\shiza\\shiza.csproj",
-      "packagesPath": "C:\\Users\\kimbo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kimbo\\Desktop\\shizaprod\\shiza\\shiza\\obj\\",
+      "projectPath": "D:\\Projects\\govno\\shiza\\shiza\\shiza.csproj",
+      "packagesPath": "C:\\Users\\Александр\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\govno\\shiza\\shiza\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\kimbo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Александр\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

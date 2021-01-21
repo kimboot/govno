@@ -6,10 +6,17 @@ namespace project_shiza
 {
     class electrostatika
     {
-        public int formula;// Здесь надо реализовать идею с формулами. Например формула кулона или др...
-        int F, Q, q, r, vecE, nu;
-        private int з = Convert.ToInt32(8.85 * Convert.ToInt32(Math.Pow(10, -12)));
-
-
+        public virtual void formula() // Функция, которая будет перезаписываться в других классах, которые в свою очередь отнаследованы от электростатики.
+        {}
+        public void selectformula(int sformula) // Функция выбора формулы
+        {
+            switch (sformula)
+            {
+                case 1:
+                    electrostatikaKylon ek = new electrostatikaKylon();
+                    ek.formula();
+                    break;
+            }
+        }
     }
 }

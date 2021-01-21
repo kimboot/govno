@@ -11,3 +11,16 @@ C:\Users\kimbo\Desktop\shizaprod\shiza\shiza\obj\Debug\netcoreapp3.1\shiza.cspro
 C:\Users\kimbo\Desktop\shizaprod\shiza\shiza\obj\Debug\netcoreapp3.1\shiza.dll
 C:\Users\kimbo\Desktop\shizaprod\shiza\shiza\obj\Debug\netcoreapp3.1\shiza.pdb
 C:\Users\kimbo\Desktop\shizaprod\shiza\shiza\obj\Debug\netcoreapp3.1\shiza.genruntimeconfig.cache
+D:\Projects\govno\shiza\shiza\bin\Debug\netcoreapp3.1\shiza.exe
+D:\Projects\govno\shiza\shiza\bin\Debug\netcoreapp3.1\shiza.deps.json
+D:\Projects\govno\shiza\shiza\bin\Debug\netcoreapp3.1\shiza.runtimeconfig.json
+D:\Projects\govno\shiza\shiza\bin\Debug\netcoreapp3.1\shiza.runtimeconfig.dev.json
+D:\Projects\govno\shiza\shiza\bin\Debug\netcoreapp3.1\shiza.dll
+D:\Projects\govno\shiza\shiza\bin\Debug\netcoreapp3.1\shiza.pdb
+D:\Projects\govno\shiza\shiza\obj\Debug\netcoreapp3.1\shiza.csprojAssemblyReference.cache
+D:\Projects\govno\shiza\shiza\obj\Debug\netcoreapp3.1\shiza.AssemblyInfoInputs.cache
+D:\Projects\govno\shiza\shiza\obj\Debug\netcoreapp3.1\shiza.AssemblyInfo.cs
+D:\Projects\govno\shiza\shiza\obj\Debug\netcoreapp3.1\shiza.csproj.CoreCompileInputs.cache
+D:\Projects\govno\shiza\shiza\obj\Debug\netcoreapp3.1\shiza.dll
+D:\Projects\govno\shiza\shiza\obj\Debug\netcoreapp3.1\shiza.pdb
+D:\Projects\govno\shiza\shiza\obj\Debug\netcoreapp3.1\shiza.genruntimeconfig.cache

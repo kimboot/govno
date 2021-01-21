@@ -16,8 +16,11 @@ namespace project_shiza
                 if (Convert.ToBoolean(vibor_temi = 1))
                 {
                     Console.WriteLine("Выбран раздел 'Этектростатика'");
-                    Console.WriteLine("Выбирите формулу : "); // Здесь надо вставить экземпляр класса электростатики
+                    Console.WriteLine("Выберите формулу : "); // Здесь надо вставить экземпляр класса электростатики
 
+                    electrostatika electrostatika = new electrostatika();
+
+                    electrostatika.selectformula(Convert.ToInt32(Console.ReadLine()));
                 }
 
 
